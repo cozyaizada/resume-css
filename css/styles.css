@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  padding: 25px 0 25px 0;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: pink;
+}
+
+h2 {
+  font-family: 'Yaldevi', sans-serif;
+  color: pink;
+  font-weight: bold;
+  padding: 15px 0 15px 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #3D2C8D;
+
+}
+
+hr {
+  color: #FDD2BF;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+.knitting {
+  width: 20%;
+  height: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.painting {
+  border-radius: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #FAEEE0;
+  position: relative;
+  padding-top: 100px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.footer-link {
+  color: #B24080;
+}
+.skill{
+  padding-top: 15px;
+}
+.skill-row {
+  width: 50%;
+  margin: 30px auto 30px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 140px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 170px;
+  bottom: 300px;
+}
+
+.aizada {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
